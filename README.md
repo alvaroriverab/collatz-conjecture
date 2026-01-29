@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/11111111/12345678-collatz-tree.png" width="600">
+  <img src="[https://user-images.githubusercontent.com/11111111/12345678-collatz-tree.png](https://miro.medium.com/v2/resize:fit:890/format:webp/0*m4baUaM9S7DIFGku.png)" width="600">
   <h1>🔢 Collatz Conjecture Explorer</h1>
   
   **The 3n+1 Problem** - Does every positive integer eventually reach 1?
