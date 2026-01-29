@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Collatz_conjecture.svg/800px-Collatz_conjecture.svg.png](https://miro.medium.com/v2/resize:fit:890/format:webp/0*m4baUaM9S7DIFGku.png)" width="600">
+  <img src="https://miro.medium.com/v2/resize:fit:890/format:webp/0*m4baUaM9S7DIFGku.png" width="600">
   <h1>🔢 Collatz Conjecture Explorer</h1>
 
   
