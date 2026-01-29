@@ -1,0 +1,15 @@
+c0 = int(input("Enter positive integer: "))
+
+steps = 0
+
+while c0 > 1:
+    if c0 % 2 == 0:
+        c0 /= 2
+        print (round(c0))
+        steps += 1
+    else:
+        c0 = c0 * 3 + 1
+        steps += 1
+        print (round(c0))
+
+print ("steps = ", steps)
